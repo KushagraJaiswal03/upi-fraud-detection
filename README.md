@@ -1,8 +1,15 @@
 # UPI Fraud Detection
+# UPI Fraud Detection
 
 An end-to-end data analytics + ML project: EDA on UPI transaction data, a trained
 fraud-detection model, and a deployed Streamlit app with a live analytics
 dashboard and a fraud risk checker.
+
+🔗 **Live app**: [upi-fraud-detection-hasrdz558uyv8g6fmhaels.streamlit.app](https://upi-fraud-detection-hasrdz558uyv8g6fmhaels.streamlit.app/)
+
+📦 **Source**: [github.com/KushagraJaiswal03/upi-fraud-detection](https://github.com/KushagraJaiswal03/upi-fraud-detection)
+![Dashboard screenshot](outputs/dashboard_screenshot.png)
+
 
 ## Project structure
 
