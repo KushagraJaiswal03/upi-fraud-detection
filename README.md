@@ -1,5 +1,5 @@
 # UPI Fraud Detection
-# UPI Fraud Detection
+
 
 An end-to-end data analytics + ML project: EDA on UPI transaction data, a trained
 fraud-detection model, and a deployed Streamlit app with a live analytics
